@@ -19,7 +19,7 @@ class ViewController: UITableViewController {
     var names = [
     NamesStruct(name: ["Raj", "Ajay", "Preeti", "Silpa",], isExpanded: true),
     NamesStruct(name: ["Raj", "Ajay", "Preeti", "Maniraj", "Silpa",], isExpanded: true),
-    NamesStruct(name: ["Raj", "Ajay", "Preeti", "Maniraj", "Silpa", "Sumant", "Anuva"], isExpanded: true),
+    NamesStruct(name: ["Raj", "Ajay", "Preeti", "Maniraj", "Silpa", "Anuva"], isExpanded: true),
     ]
     
     @objc func handleShowIndexPathButtonAction() {
