@@ -17,8 +17,8 @@ class ViewController: UITableViewController {
     var showSectionBarButtonItem = UIBarButtonItem()
     var refreshControlIndicator = UIRefreshControl()
     var names = [
-    NamesStruct(name: ["Raj", "Ajay", "Preeti"], isExpanded: true),
-    NamesStruct(name: ["Raj", "Ajay", "Preeti", "Maniraj"], isExpanded: true),
+    NamesStruct(name: ["Raj", "Ajay", "Preeti", "Silpa",], isExpanded: true),
+    NamesStruct(name: ["Raj", "Ajay", "Preeti", "Maniraj", "Silpa",], isExpanded: true),
     NamesStruct(name: ["Raj", "Ajay", "Preeti", "Maniraj", "Silpa", "Sumant", "Anuva"], isExpanded: true),
     ]
     
